@@ -1,0 +1,16 @@
+.archived, .active, .inactive {
+    color: white;
+    display: inline-block;
+    padding: 5px 10px;
+    text-align: center;
+}
+h1.up {color:#4845a7;display: inline-block; padding: 5px 10px;}
+.project { background: blue; color: white; display: inline-block;}
+table.overview-head {padding: 5px 10px;}
+table.overview-body {padding: 5px 10px;}
+div.project a {color: white;}
+div.block-up {display: inline-block;}
+div.message {background: red; color: white; display: inline-block; padding: 5px 10px; margin: 10px 0px 0px 0px;}
+.active { background: green; }
+.inactive { background: red; }
+.archived { background: #ccc; color: #555; }
